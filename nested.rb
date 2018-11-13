@@ -82,7 +82,7 @@ adding_matz <<  :yukihiro_matsumoto => {
         }
      }
 
-	
+
 end
 
 def changing_alan
